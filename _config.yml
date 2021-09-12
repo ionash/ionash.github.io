@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Welcome to the IOnAsH's homepage!
+plugins:
+  - jekyll-sitemap
